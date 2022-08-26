@@ -1,0 +1,54 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Bernard M. Baruch",
+      "quote": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."
+    },
+    {
+      "id": 2,
+      "author": "Dr. Seuss",
+      "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams."
+    },
+    {
+      "id": 3,
+      "author": "Confucius",
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall."
+    },
+    {
+      "id": 4,
+      "author": "Albert Einstein",
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+    },
+    {
+      "id": 5,
+      "author": "Maya Angelou",
+      "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+    },
+    {
+      "id": 6,
+      "author": "Rosa Parks",
+      "quote": "I believe we are here on the planet Earth to live, grow up and do what we can to make this world a better place for all people to enjoy freedom."
+    },
+    {
+      "id": 7,
+      "author": "Maya Angelou",
+      "quote": "You are the sum total of everything you've ever seen, heard, eaten, smelled, been told, forgot - it's all there. Everything influences each of us, and because of that I try to make sure that my experiences are positive."
+    },
+    {
+      "id": 8,
+      "author": "Ann Richards",
+      "quote": " have very strong feelings about how you lead your life. You always look ahead, you never look back."
+    },
+    {
+      "id": 9,
+      "author": "Eudora Welty",
+      "quote": "The events in our lives happen in a sequence in time, but in their significance to ourselves they find their own order the continuous thread of revelation."
+    },
+    {
+      "id": 10,
+      "author": "Jackie Robinson",
+      "quote": "Life is not a spectator sport. If you're going to spend your whole life in the grandstand just watching what goes on, in my opinion you're wasting your life."
+    }
+  ]
+}
